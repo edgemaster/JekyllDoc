@@ -1,11 +1,10 @@
 # Site settings
 title: Jekyll cheat sheet
-email: david.jacquel@gmail.com
+email: 
 
 description: "This is my personal Jekyll testbed."
 
-baseurl: ""
-url: "http://jekyll.pygmeeweb.com"
+url: "https://edgemaster.github.io/JekyllDoc"
 
 exclude:
   - assets/stylesheets/variables.scss
@@ -40,11 +39,11 @@ sass:
   # nested 138,7kB, compact 129,1kB, expanded 135,9 kB, compressed 122,4 kB
   style: compressed
 
-twitter_username: pygmeeweb
-github_username:  djacquel
-github_repository: https://github.com/djacquel/JekyllDoc
+twitter_username: 
+github_username:  
+github_repository: https://github.com/edgemaster/JekyllDoc
 
-googleAnalyticsCode: UA-157621-1
+googleAnalyticsCode: null
 
 # packages versions
 twb-sass-version: 2.3.0
