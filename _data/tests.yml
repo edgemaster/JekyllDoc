@@ -490,7 +490,7 @@ liquid:
                   expected: 4
                 - tag: '{{ 4.5612 | round: 2 }}'
                   comment: liquid 3.0
-                  expected: 4,56
+                  expected: 4.56
 
             times:
               doc: 'http://docs.shopify.com/themes/liquid-documentation/filters/math-filters#times'
