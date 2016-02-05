@@ -4,7 +4,8 @@ email:
 
 description: "This is my personal Jekyll testbed."
 
-url: "https://edgemaster.github.io/JekyllDoc"
+baseurl: "/JekyllDoc"
+url: "https://edgemaster.github.io"
 
 exclude:
   - assets/stylesheets/variables.scss
